@@ -1,4 +1,4 @@
-package main.java.com.yatzy.refactoring;
+package main.java.com.yatzy.refactoring.model;
 
 import java.util.Arrays;
 import java.util.List;

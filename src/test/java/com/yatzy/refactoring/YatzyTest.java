@@ -1,7 +1,7 @@
 package test.java.com.yatzy.refactoring;
 
-import main.java.com.yatzy.refactoring.Category;
-import main.java.com.yatzy.refactoring.YatzyRoll;
+import main.java.com.yatzy.refactoring.model.Category;
+import main.java.com.yatzy.refactoring.model.YatzyRoll;
 import org.junit.Assert;
 import org.junit.Test;
 
